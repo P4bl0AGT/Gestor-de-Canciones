@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ajustes mínimos para fuente mono de acordes */
+pre { tab-size: 2; }
