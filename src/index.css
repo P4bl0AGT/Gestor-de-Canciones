@@ -2,5 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Evitar scroll horizontal accidental en móvil */
+html, body { overflow-x: hidden; }
+
 /* Ajustes mínimos para fuente mono de acordes */
 pre { tab-size: 2; }
